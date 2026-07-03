@@ -295,7 +295,8 @@ Passionate about solving real-world problems using technology and continuously l
 
 <p align="center"> 
 
-<a href="https://github.com/hamza2006-2/hamza2006-2/raw/main/Hamza%20Ahmed%20Resume%20-1.pdf">
+<a href="https://github.com/hamza2006-2/hamza2006-2/raw/main/Hamza%20Ahmed%20Resume%20-1.pdf[Hamza Ahmed Resume -1.pdf](https://github.com/user-attachments/files/29643192/Hamza.Ahmed.Resume.-1.pdf)
+">
 
 <img src="https://img.shields.io/badge/📄%20Download%20My%20CV-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 
@@ -303,9 +304,8 @@ Passionate about solving real-world problems using technology and continuously l
 
 </p>
 
-> **⚠️ Important:** Apni CV ka filename **exactly** `Hamza_Ahmed_CV.pdf` rakhna aur usse repository ke main folder mein upload karna. Tab ye button automatically kaam karega.
-
 ---
+
 # 🌐 Connect With Me
 
 <p align="center">

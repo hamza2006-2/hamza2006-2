@@ -281,16 +281,6 @@ Passionate about solving real-world problems using technology and continuously l
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hamza2006-2&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
 # 📈 Activity Graph
 
 <p align="center">
@@ -305,7 +295,7 @@ Passionate about solving real-world problems using technology and continuously l
 
 <p align="center">
 
-<a href="https://github.com/hamza2006-2/hamza2006-2/raw/main/Hamza_Ahmed_CV.pdf">
+<a href="https://github.com/hamza2006-2/hamza2006-2/raw/main/Hamza Ahmed Resume -1">
 
 <img src="https://img.shields.io/badge/📄%20Download%20My%20CV-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 
